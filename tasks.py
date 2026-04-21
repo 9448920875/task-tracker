@@ -1,1 +1,6 @@
 print("Task Tracker")
+print("1. Add task")
+print("2. List tasks")
+print("3. Exit")
+choice = input("Enter your choice (1-3): ")
+print("You chose:", choice)
