@@ -1,3 +1,4 @@
+tasks = []
 print("Task Tracker")
 print("1. Add task")
 print("2. List tasks")
